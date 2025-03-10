@@ -5,3 +5,11 @@ W pętli while zwiększana jest zawartość listy listData - pozwala to na zajmo
 Program operation:
 The program decreases the LED blinking frequency as memory usage increases.
 In the while loop, the contents of the listData list are continuously increased—this allows more memory to be occupied while simultaneously enabling observation of the program's behavior.
+
+
+
+Linki:
+https://docs.micropython.org/en/latest/library/os.html
+https://microbit-micropython.readthedocs.io/en/v2-docs/utime.html
+https://docs.python.org/3/library/gc.html
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#boot-flow
