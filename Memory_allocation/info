@@ -1,6 +1,6 @@
 Działanie programu:
 Program zmniejsza częstotliwość mrugania diody wraz z wzrostem zajętości pamięci.
-W pętli while zwiększana jest zawartość listy listData - pozwala to na zajmowanie coraz większej ilości pamięcie i jednocześnie pozwala na obserwacje działania programu
+W pętli while zwiększana jest zawartość listy listData - pozwala to na zajmowanie coraz większej ilości pamięci i jednocześnie pozwala na obserwacje działania programu
 
 Program operation:
 The program decreases the LED blinking frequency as memory usage increases.
